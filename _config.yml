@@ -1,28 +1,26 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            Halil Ayyildiz
-tagline:          'Technical Blog'
-description:      >- 
-                  My thoughts and experiences on software development topics
-                  <a href="http://twitter.com/halilayyildiz" target="_blank">@halilayyildiz</a>
+title:            HALIL AYYILDIZ
+tagline:          Technical Blog
+description:      Thoughts & experiences on software development
 url:              blog.halilayyildiz.com/
 baseurl:          /
 
 author:
-  name:           'Halil Ayyildiz'
+  name:           Halil Ayyildiz
   url:            http://www.halilayyildiz.com
 
 paginate:         5
 
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/halilayyildiz/
+link:
+  twitter:        https://twitter.com/halilayyildiz
+  github:         https://github.com/halilayyildiz
+  linkedin:       https://www.linkedin.com/in/halilayyildiz/
+  
   
