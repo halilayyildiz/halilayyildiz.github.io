@@ -1,3 +1,7 @@
+# Site
+url: "https://username.github.io"
+baseurl: ""
+
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
