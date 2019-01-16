@@ -2,7 +2,7 @@
     <div class="container sidebar-sticky">
         <div class="sidebar-about">
             <h1>
-                <a href="{{ site.baseurl }}">
+                <a href="{{ site.url }}">
                     {{ site.title }}
                 </a>
             </h1>
@@ -11,13 +11,13 @@
 
         <div class="sidebar-links">
             <a href="{{ site.link.twitter }}" target="_blank">
-                <img src="{{ site.baseurl }}public/image/twitter.svg" alt="Twitter">
+                <img src="{{ site.url }}/public/image/twitter.svg" alt="Twitter">
             </a>
             <a href="{{ site.link.linkedin }}" target="_blank">
-                <img src="{{ site.baseurl }}public/image/linkedin.svg" alt="Linkedin">
+                <img src="{{ site.url }}/public/image/linkedin.svg" alt="Linkedin">
             </a>
             <a href="{{ site.link.github }}" target="_blank">
-                <img src="{{ site.baseurl }}public/image/github.svg" alt="Github">
+                <img src="{{ site.url }}/public/image/github.svg" alt="Github">
             </a>
         </div>
 
@@ -26,7 +26,7 @@
         </div>
 
         <nav class="sidebar-nav">
-            <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+            <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.url }}">Home</a>
             {% comment %} The code below dynamically generates a sidebar nav of pages with `layout: page` in the
             front-matter. See readme
             for usage. {% endcomment %} {% assign pages_list = site.pages %} {% for node in pages_list %} {% if
