@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: blog.halilayyildiz.com/sitemap.xml
+Sitemap: halilayyildiz.github.io/sitemap.xml
