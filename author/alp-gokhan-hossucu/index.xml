@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alp Gokhan Hossucu | Halil AYYILDIZ</title>
-    <link>halilayyildiz.github.io/author/alp-gokhan-hossucu/</link>
-      <atom:link href="halilayyildiz.github.io/author/alp-gokhan-hossucu/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/alp-gokhan-hossucu/</link>
+      <atom:link href="/author/alp-gokhan-hossucu/index.xml" rel="self" type="application/rss+xml" />
     <description>Alp Gokhan Hossucu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/halilayyildiz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Alp Gokhan Hossucu</title>
-      <link>halilayyildiz.github.io/author/alp-gokhan-hossucu/</link>
+      <link>/author/alp-gokhan-hossucu/</link>
     </image>
     
     <item>
       <title>Concept Disambiguation Exploiting Semantic Databases</title>
-      <link>halilayyildiz.github.io/publication/concept-disambiguation/</link>
+      <link>/publication/concept-disambiguation/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>halilayyildiz.github.io/publication/concept-disambiguation/</guid>
+      <guid>/publication/concept-disambiguation/</guid>
       <description></description>
     </item>
     

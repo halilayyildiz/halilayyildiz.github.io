@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Halil AYYILDIZ</title>
-    <link>halilayyildiz.github.io/</link>
-      <atom:link href="halilayyildiz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Halil AYYILDIZ</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 Oct 2020 00:58:42 +0300</lastBuildDate>
     <image>
-      <url>/halilayyildiz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Halil AYYILDIZ</title>
-      <link>halilayyildiz.github.io/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>My First Post</title>
-      <link>halilayyildiz.github.io/post/my-first-post/</link>
+      <link>/post/my-first-post/</link>
       <pubDate>Sat, 31 Oct 2020 00:58:42 +0300</pubDate>
-      <guid>halilayyildiz.github.io/post/my-first-post/</guid>
+      <guid>/post/my-first-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Outage Management</title>
-      <link>halilayyildiz.github.io/project/outage-management/</link>
+      <link>/project/outage-management/</link>
       <pubDate>Fri, 30 Oct 2020 23:47:14 +0300</pubDate>
-      <guid>halilayyildiz.github.io/project/outage-management/</guid>
+      <guid>/project/outage-management/</guid>
       <description>&lt;p&gt;Siemens Outage Management System is an on-premise software solution for utility companies which tracks outages in the electricity network, providing full life-cycle management of the outages starting from outage detection on the grid up to report generation for power loss calculations of the customers.&lt;/p&gt;
 &lt;p&gt;I managed a team of 5-6 developers. We handled the extension of the global product according to local market rules. We also implementedted the integration layer for external ERP systems, including SAP-PM, SAP CRM, SAP WFM, and smart meters. I actively participated in the collection of customer requirements and the design and development of the product. I also designed an integration medium that supports two way communication between the OMS and customer ERP systems.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve successfully delivered and customized OMS to four different utility companies in Turkey and one another in Saudi Arabia. Moreover, I&amp;rsquo;ve supported Siemens branches in Spain and Norway for their local OMS solutions.&lt;/p&gt;
@@ -34,9 +34,9 @@
     
     <item>
       <title>Tomtom Search Api</title>
-      <link>halilayyildiz.github.io/project/tomtom-search-api/</link>
+      <link>/project/tomtom-search-api/</link>
       <pubDate>Fri, 30 Oct 2020 23:44:06 +0300</pubDate>
-      <guid>halilayyildiz.github.io/project/tomtom-search-api/</guid>
+      <guid>/project/tomtom-search-api/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://developer.tomtom.com/search-api&#34;&gt;https://developer.tomtom.com/search-api&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;TomTom has a broad list of location technology products. One major group is the search product unit responsible for providing online search services on the top of maps data.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve been working on the search product unit to provide extended search APIs to the customers. Those APIs cover a list of different capabilities, including parking space availability, fuel prices, electric vehicle charging station availability, and rich data services. All of these products are available worldwide via highly available, distributed, resilient cloud deployments located on multiple geographical regions to serve low latency APIs to the customers. These services are being used by cars and Azure maps back end and developers who have acquired the developer API key via the TomTom developer portal.&lt;/p&gt;
@@ -46,9 +46,9 @@
     
     <item>
       <title>Concept Disambiguation Exploiting Semantic Databases</title>
-      <link>halilayyildiz.github.io/publication/concept-disambiguation/</link>
+      <link>/publication/concept-disambiguation/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>halilayyildiz.github.io/publication/concept-disambiguation/</guid>
+      <guid>/publication/concept-disambiguation/</guid>
       <description></description>
     </item>
     

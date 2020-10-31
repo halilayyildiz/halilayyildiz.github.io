@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Halil AYYILDIZ</title>
-    <link>halilayyildiz.github.io/author/halil-ayyildiz/</link>
-      <atom:link href="halilayyildiz.github.io/author/halil-ayyildiz/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/halil-ayyildiz/</link>
+      <atom:link href="/author/halil-ayyildiz/index.xml" rel="self" type="application/rss+xml" />
     <description>Halil AYYILDIZ</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/halilayyildiz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Halil AYYILDIZ</title>
-      <link>halilayyildiz.github.io/author/halil-ayyildiz/</link>
+      <link>/author/halil-ayyildiz/</link>
     </image>
     
   </channel>

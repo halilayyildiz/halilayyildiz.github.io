@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ziya Özkan Göktürk | Halil AYYILDIZ</title>
-    <link>halilayyildiz.github.io/author/ziya-ozkan-gokturk/</link>
-      <atom:link href="halilayyildiz.github.io/author/ziya-ozkan-gokturk/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/ziya-ozkan-gokturk/</link>
+      <atom:link href="/author/ziya-ozkan-gokturk/index.xml" rel="self" type="application/rss+xml" />
     <description>Ziya Özkan Göktürk</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/halilayyildiz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Ziya Özkan Göktürk</title>
-      <link>halilayyildiz.github.io/author/ziya-ozkan-gokturk/</link>
+      <link>/author/ziya-ozkan-gokturk/</link>
     </image>
     
     <item>
       <title>Concept Disambiguation Exploiting Semantic Databases</title>
-      <link>halilayyildiz.github.io/publication/concept-disambiguation/</link>
+      <link>/publication/concept-disambiguation/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>halilayyildiz.github.io/publication/concept-disambiguation/</guid>
+      <guid>/publication/concept-disambiguation/</guid>
       <description></description>
     </item>
     
